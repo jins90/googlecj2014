@@ -1,3 +1,4 @@
+# solution to handle google code jam magic problem
 f = open("input.txt", "r")
 line = f.readline()
 cases = int(line.strip())
